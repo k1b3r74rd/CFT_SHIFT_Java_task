@@ -7,9 +7,9 @@
 Ссылка на библиотеку: https://mvnrepository.com/artifact/commons-cli/commons-cli<br>
 Все версии и зависимости указаны в файле pom.xml.<br></p>
 
-<p> Порядок использования: <br>
+<p> <h5>Порядок использования:</h5> <br>
 sort-me.exe [options] [outputfile.txt] [inputfile1.txt [inputfile2.txt [...]]] <br>
-Доступные параметры: <br>
+<h5>Доступные параметры:</h5> <br>
 [options]:<br>
 1. режим сортировки (-a или -d), необязательный, по умолчанию сортируем по возрастанию;<br>
 2. тип данных (-s или -i), обязательный;<br>
