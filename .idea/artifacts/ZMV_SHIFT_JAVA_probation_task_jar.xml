@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZMV_SHIFT_JAVA_probation-task:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZMV_SHIFT_JAVA_probation_task_jar</output-path>
+    <root id="archive" name="ZMV_SHIFT_JAVA_probation-task.jar">
+      <element id="module-output" name="ZMV_SHIFT_JAVA_probation-task" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.5.0/commons-cli-1.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
